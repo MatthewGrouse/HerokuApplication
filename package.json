@@ -7,11 +7,6 @@
   },
   "main": "Server.js",
   "scripts": {
-    "start": "node Server.js",
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MatthewGrouse/HerokuApplication"
+    "start": "node Server.js"
   }
-
 }
